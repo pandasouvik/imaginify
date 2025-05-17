@@ -17,7 +17,7 @@
 
    <div align="center">
     Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. <br>
-    See the project in action <a href="https://imaginify-theta-self.vercel.app/" target="_blank"><b>Here</b></a>
+    See the project in action <a href="https://imaginify-xi-orpin.vercel.app/" target="_blank"><b>Here</b></a>
     </div>
 </div>
 
@@ -93,7 +93,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/kuntal-hub/imaginify.git
+git clone https://github.com/pandasouvik/imaginify.git
 cd imaginify
 ```
 
@@ -151,4 +151,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 Public Assets used in the project can be found [here](https://drive.google.com/file/d/1uv1zyCjbYBQE9qnwh2snwO0NBgoop5gz/view?usp=sharing)
 
-Final deployment of the project can be found [here](https://imaginify-theta-self.vercel.app)
+Final deployment of the project can be found [here](https://imaginify-xi-orpin.vercel.app)
